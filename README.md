@@ -1,4 +1,4 @@
-<h2 align="left">Hey there👋! My name is vamtic and from Hungary 🇭🇺</h2>
+<h2 align="left">Hey there👋! My name is vamtic: from Hungary 🇭🇺</h2>
 
 ###
 
